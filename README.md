@@ -1,6 +1,6 @@
-# Mia plugins
+# Mia Bot plugins
 
-Plugins for the Mia app catalog. Each folder is one plugin in the same layout as the
+Mia Bot plugins: apps for the Mia Bot app catalog. Each folder is one plugin in the same layout as the
 [xAI plugin marketplace](https://github.com/xai-org/plugin-marketplace): a manifest in
 `.grok-plugin/plugin.json`, a hosted MCP server in `.mcp.json`, a logo in `assets/`, and
 skills in `skills/<name>/SKILL.md`.

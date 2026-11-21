@@ -1,13 +1,13 @@
-# Composio plugin for Mia
+# Composio: a Mia Bot plugin
 
-Connect Mia to [Composio](https://composio.dev) and reach Gmail, Google Calendar,
+Connect Mia Bot to [Composio](https://composio.dev) and reach Gmail, Google Calendar,
 Outlook, Slack, Notion, GitHub and 1,500+ other apps through one hosted MCP server.
 
 ## Installation
 
-In Mia, open **Integrations**, find **Composio**, and click **Add**.
+In Mia Bot, open **Integrations**, find **Composio**, and click **Add**.
 
-On first connection, Mia opens the Composio sign-in in your browser. Sign in with your
+On first connection, Mia Bot opens the Composio sign-in in your browser. Sign in with your
 Composio account. No API key is needed and nothing should be pasted into chat. When the
 bot first needs an app (for example Gmail), Composio gives a link to approve that app.
 
@@ -39,5 +39,5 @@ Composio Connect exposes 7 meta-tools:
 
 ## Notes
 
-The Composio name and logo belong to Composio. This plugin only points Mia at Composio's
+The Composio name and logo belong to Composio. This plugin only points Mia Bot at Composio's
 public hosted server; see https://docs.composio.dev/docs/composio-connect.
