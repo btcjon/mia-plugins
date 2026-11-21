@@ -1,0 +1,14 @@
+{
+  "name": "composio",
+  "version": "1.0.0",
+  "description": "Composio Connect for Mia via the hosted Composio MCP server at connect.composio.dev. Reach Gmail, Google Calendar, Outlook, Slack, Notion, GitHub and 1,500+ other apps through one connection: search for the right action, connect an app when it is first needed, and run actions across apps. Sign in with your Composio account on first connect.",
+  "author": {
+    "name": "Composio",
+    "url": "https://composio.dev"
+  },
+  "homepage": "https://docs.composio.dev/docs/composio-connect",
+  "repository": "https://github.com/btcjon/mia-plugins",
+  "license": "MIT",
+  "keywords": ["composio", "composio connect", "gmail", "google calendar", "outlook", "slack", "app integrations"],
+  "logo": "assets/logo.png"
+}
