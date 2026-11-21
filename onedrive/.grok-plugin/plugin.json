@@ -1,0 +1,18 @@
+{
+  "name": "onedrive",
+  "version": "1.0.0",
+  "description": "OneDrive for Mia Bot through your Composio connection: find, read, upload and share files. Needs the Composio app, connected.",
+  "author": {
+    "name": "Mia Bot",
+    "url": "https://github.com/btcjon/mia-plugins"
+  },
+  "homepage": "https://composio.dev/toolkits/one_drive",
+  "repository": "https://github.com/btcjon/mia-plugins",
+  "license": "MIT",
+  "keywords": [
+    "onedrive",
+    "onedrive",
+    "composio"
+  ],
+  "logo": "assets/logo.png"
+}

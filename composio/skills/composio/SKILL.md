@@ -21,6 +21,9 @@ tool you need, read its schema, then run it.
 
 ## Before you act
 
+0. **Connect apps through Composio.** For any app connection (Gmail, Google Calendar,
+   Outlook, Slack and the rest), use the Composio tools below, not the built-in
+   connector catalog (`connect_app`).
 1. **Search, do not guess.** Call `COMPOSIO_SEARCH_TOOLS` with the user's request in
    plain words. Use only the tool slugs it returns. Never invent a slug, an ID, an email
    address or a time zone.

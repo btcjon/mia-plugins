@@ -10,3 +10,7 @@ skills in `skills/<name>/SKILL.md`.
 | [composio](composio) | Gmail, Google Calendar, Outlook, Slack and 1,500+ apps through Composio Connect |
 
 App names and logos belong to their owners.
+
+## App cards (via Composio)
+
+Skills-only cards for common apps: Gmail, Google Calendar, Google Drive, Google Docs, Google Sheets, Outlook, OneDrive, Teams, Slack, HubSpot, Salesforce, Zoom, GitHub, X and Asana. Each adds one short skill that uses the user's own Composio connection for that app's toolkit. They have no server of their own and need the `composio` plugin, connected.

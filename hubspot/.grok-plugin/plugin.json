@@ -1,0 +1,18 @@
+{
+  "name": "hubspot",
+  "version": "1.0.0",
+  "description": "HubSpot for Mia Bot through your Composio connection: find and update contacts, companies, deals and tasks. Needs the Composio app, connected.",
+  "author": {
+    "name": "Mia Bot",
+    "url": "https://github.com/btcjon/mia-plugins"
+  },
+  "homepage": "https://composio.dev/toolkits/hubspot",
+  "repository": "https://github.com/btcjon/mia-plugins",
+  "license": "MIT",
+  "keywords": [
+    "hubspot",
+    "hubspot",
+    "composio"
+  ],
+  "logo": "assets/logo.png"
+}

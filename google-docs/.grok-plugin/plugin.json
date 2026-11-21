@@ -1,0 +1,18 @@
+{
+  "name": "google-docs",
+  "version": "1.0.0",
+  "description": "Google Docs for Mia Bot through your Composio connection: find, read, create and edit documents. Needs the Composio app, connected.",
+  "author": {
+    "name": "Mia Bot",
+    "url": "https://github.com/btcjon/mia-plugins"
+  },
+  "homepage": "https://composio.dev/toolkits/googledocs",
+  "repository": "https://github.com/btcjon/mia-plugins",
+  "license": "MIT",
+  "keywords": [
+    "google-docs",
+    "google docs",
+    "composio"
+  ],
+  "logo": "assets/logo.png"
+}

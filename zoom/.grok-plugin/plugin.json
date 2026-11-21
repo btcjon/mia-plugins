@@ -1,0 +1,18 @@
+{
+  "name": "zoom",
+  "version": "1.0.0",
+  "description": "Zoom for Mia Bot through your Composio connection: schedule, list and manage meetings and recordings. Needs the Composio app, connected.",
+  "author": {
+    "name": "Mia Bot",
+    "url": "https://github.com/btcjon/mia-plugins"
+  },
+  "homepage": "https://composio.dev/toolkits/zoom",
+  "repository": "https://github.com/btcjon/mia-plugins",
+  "license": "MIT",
+  "keywords": [
+    "zoom",
+    "zoom",
+    "composio"
+  ],
+  "logo": "assets/logo.png"
+}

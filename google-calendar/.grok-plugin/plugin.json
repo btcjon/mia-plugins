@@ -1,0 +1,18 @@
+{
+  "name": "google-calendar",
+  "version": "1.0.0",
+  "description": "Google Calendar for Mia Bot through your Composio connection: check availability, find, create and update events. Needs the Composio app, connected.",
+  "author": {
+    "name": "Mia Bot",
+    "url": "https://github.com/btcjon/mia-plugins"
+  },
+  "homepage": "https://composio.dev/toolkits/googlecalendar",
+  "repository": "https://github.com/btcjon/mia-plugins",
+  "license": "MIT",
+  "keywords": [
+    "google-calendar",
+    "google calendar",
+    "composio"
+  ],
+  "logo": "assets/logo.png"
+}
