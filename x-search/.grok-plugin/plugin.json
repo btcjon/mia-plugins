@@ -1,0 +1,14 @@
+{
+  "name": "x-search",
+  "version": "1.0.0",
+  "description": "Search X (Twitter) posts and people for Mia Bot with xAI's X Search, using your own xAI API key. Keyword and meaning-based search, filters by account and date, and links to every post quoted. You pay xAI directly for what you use (about $0.10 to $0.25 per search); Mia Bot charges nothing. Read-only: it cannot post.",
+  "author": {
+    "name": "Mia Bot",
+    "url": "https://github.com/btcjon/mia-plugins"
+  },
+  "homepage": "https://docs.x.ai/developers/tools/x-search",
+  "repository": "https://github.com/btcjon/mia-plugins",
+  "license": "MIT",
+  "keywords": ["x", "twitter", "search", "x search", "xai", "grok"],
+  "logo": "assets/logo.png"
+}

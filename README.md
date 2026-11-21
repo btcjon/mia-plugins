@@ -8,6 +8,7 @@ skills in `skills/<name>/SKILL.md`.
 | Plugin | What it does |
 |---|---|
 | [composio](composio) | Gmail, Google Calendar, Outlook, Slack and 1,500+ apps through Composio Connect |
+| [x-search](x-search) | Search X with xAI's X Search, using your own xAI API key (skills only) |
 
 App names and logos belong to their owners.
 
