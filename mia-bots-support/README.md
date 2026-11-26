@@ -1,15 +1,15 @@
 # Mia Bots Support: a Mia Bot plugin
 
-Send bug reports or support requests to the Mia Bots support team and check for replies on open tickets.
+Report a problem to Mia Bots support from the chat, and check for a reply on a ticket by its number.
 
 ## What you get
 
 - **MCP server** `mia-bots-support` at `https://support.miabots.com/mcp` (Streamable HTTP).
-- **Skill** `support`: when and how to contact Mia Bots support, share the exact message before sending, and check for replies.
+- **Skill** `support`: when and how to report a problem to Mia Bots support, ask before sending, and check for a reply.
 
 ### Tools
 
 | Tool | What it does |
 |---|---|
-| `contact_support` | Send a problem report or follow-up to Mia Bots support and get a ticket ID |
-| `check_support_reply` | Check for a support team reply on an existing ticket ID |
+| `contact_support` | Send a problem report, or a follow-up on a ticket, to Mia Bots support. Returns a ticket number. |
+| `check_support_reply` | Check one ticket, by its number, for a reply from Mia Bots support. |

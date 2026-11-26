@@ -1,7 +1,7 @@
 {
   "name": "mia-bots-support",
   "version": "1.0.0",
-  "description": "Contact the Mia Bots support team when you hit a problem or need help, and check for replies on your open support tickets.",
+  "description": "Report a problem to Mia Bots support and check for a reply on your ticket.",
   "author": {
     "name": "Mia Bot",
     "url": "https://github.com/btcjon/mia-plugins"
