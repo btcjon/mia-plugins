@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mia-bots-support": {
+      "type": "http",
+      "url": "https://support.miabots.com/mcp"
+    }
+  }
+}
