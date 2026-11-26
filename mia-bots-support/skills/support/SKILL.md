@@ -1,24 +1,25 @@
 ---
 name: support
 description: >-
-  Report a problem to Mia Bots support and check a ticket for a reply. Use only
-  when the user reports a problem with Mia Bots, asks to report one, asks about
-  a support ticket, or sends their next message after a ticket was opened in
-  this chat.
+  Ask Mia Bots support a how-to question or report a problem, and check a ticket
+  for a reply. Use only when the user asks a Mia Bots how-to question, reports
+  a problem with Mia Bots, asks to contact support, asks about a support ticket,
+  or sends their next message after a ticket was opened in this chat.
 ---
 
 # Mia Bots Support
 
-Use the `mia-bots-support` MCP server to send problem reports to Mia Bots
-support and check a ticket for a reply.
+Use the `mia-bots-support` MCP server to send Mia Bots how-to questions and
+problem reports to Mia Bots support, and check a ticket for a reply.
 
 ## Rules
 
-1. **Only for problems.** Call `contact_support` only when the user reports a
-   problem with Mia Bots or asks you to report one. Do not open a ticket for a
-   normal question or task. Support answers problem reports only. If the user
-   wants to send a question about features, price or billing, tell them first
-   that this channel may not answer it.
+1. **Only for Mia Bots how-to questions and problem reports.** Call
+   `contact_support` only when the user asks a how-to question about Mia Bots,
+   reports a problem with Mia Bots, or asks you to contact support about one.
+   Do not use it for tasks outside Mia Bots. Support answers Mia Bots how-to
+   questions and problem reports; account and money questions and bugs that
+   need a fix are handed on (promise no reply, no person, and no reply time).
 2. **Ask before you send.** Show the user the exact text and send it only after
    they say yes. If an approval card with the text appears, that card is the
    yes; do not ask twice.
