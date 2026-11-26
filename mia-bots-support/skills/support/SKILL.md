@@ -16,10 +16,12 @@ problem reports to Mia Bots support, and check a ticket for a reply.
 
 1. **Only for Mia Bots how-to questions and problem reports.** Call
    `contact_support` only when the user asks a how-to question about Mia Bots,
-   reports a problem with Mia Bots, or asks you to contact support about one.
-   Do not use it for tasks outside Mia Bots. Support answers Mia Bots how-to
-   questions and problem reports; account and money questions and bugs that
-   need a fix are handed on (promise no reply, no person, and no reply time).
+   reports a problem with Mia Bots, or asks you to contact support about Mia
+   Bots. Do not use it for questions or tasks that are not about Mia Bots.
+   Support answers Mia Bots how-to questions and problem reports. It may not
+   answer a question about an account, a price or a payment, or a bug that
+   needs a fix; it saves those for the support team. If the user wants to send
+   one of those, tell them first that this channel may not answer it.
 2. **Ask before you send.** Show the user the exact text and send it only after
    they say yes. If an approval card with the text appears, that card is the
    yes; do not ask twice.
